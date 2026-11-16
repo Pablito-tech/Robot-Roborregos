@@ -1,0 +1,6 @@
+ofertas.csv
+ofertas.html
+crudo_*.html
+__pycache__/
+.pytest_cache/
+.venv/
